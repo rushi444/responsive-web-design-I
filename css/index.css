@@ -205,8 +205,11 @@ address {
     
     .logo {
             order: -1;   
-            flex-direction: column;
-        }
+            margin-bottom: 50px; 
+            position: relative;
+            left: 380px;
+            padding-bottom: 30px; 
+    }   
     .introimg {
         display: none; 
     } 
