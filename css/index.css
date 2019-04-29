@@ -224,7 +224,11 @@ address {
 @media (max-width: 500px) {
     
 .logo {
-    order: -1;
+    order: -1;   
+            margin-bottom: 0px; 
+            position: relative;
+            left: 0px;
+            padding-bottom: 0px; 
        
 }
 nav {
